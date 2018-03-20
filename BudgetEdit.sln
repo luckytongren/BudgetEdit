@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetEdit", "BudgetEdit\BudgetEdit.csproj", "{F1D1380F-6D9E-4A4F-BB3A-66F35F4B06F9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{B7716A0E-6D52-4AEB-873E-6DAD0550A7FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1D1380F-6D9E-4A4F-BB3A-66F35F4B06F9}.Debug|x86.ActiveCfg = Debug|x86
+		{F1D1380F-6D9E-4A4F-BB3A-66F35F4B06F9}.Debug|x86.Build.0 = Debug|x86
+		{F1D1380F-6D9E-4A4F-BB3A-66F35F4B06F9}.Release|x86.ActiveCfg = Release|x86
+		{F1D1380F-6D9E-4A4F-BB3A-66F35F4B06F9}.Release|x86.Build.0 = Release|x86
+		{B7716A0E-6D52-4AEB-873E-6DAD0550A7FB}.Debug|x86.ActiveCfg = Debug
+		{B7716A0E-6D52-4AEB-873E-6DAD0550A7FB}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
